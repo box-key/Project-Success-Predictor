@@ -1,5 +1,5 @@
 # Description
-A binary text classifier that predicts the success of a crowdfunding project based on its project description, trained by dataset provided by Donorschoose.org: https://research.donorschoose.org/t/download-opendata/33.</br>
+A binary text classifier that predicts the success of a crowdfunding project based on its project description, trained on dataset provided by Donorschoose.org: https://research.donorschoose.org/t/download-opendata/33.</br>
 Showing how to select the best number of features by Chi-square test and the effect of imbalanced data handling techniques (under-sampling and cost-sensistive learning).
 
 # Libraries
