@@ -10,5 +10,5 @@ Showing how to select the best number of features by Chi-square test and the eff
 # Technical Details
 - Feature => Tf-Idf Bigram 
 - Training algorithm => LinearSVM
-- Class ditribution => completed=117899, expired=51176
+- Class ditribution => completed=117899 instances, expired=51176 instances
 - Training_set:test_set => 0.8:0.2
