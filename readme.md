@@ -8,7 +8,7 @@ Showing how to select the best number of features by Chi-square test and the eff
 - numpy/pandas
 
 # Technical Details
-- feature: Tf-Idf Bigram 
-- training algorithm: LinearSVM
-- class ditribution: completed=117899, expired=51176
-- training_set:test_set = 0.8:0.2
+- Feature => Tf-Idf Bigram 
+- Training algorithm => LinearSVM
+- Class ditribution => completed=117899, expired=51176
+- Training_set:test_set => 0.8:0.2
